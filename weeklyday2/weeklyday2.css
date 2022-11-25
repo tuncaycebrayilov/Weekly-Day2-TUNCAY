@@ -1,0 +1,43 @@
+.photo {
+    border-radius: 10%;
+    
+}
+.text {
+    color: white;
+}
+.text2 {
+    color: red;
+}
+.text3 {
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    width: 500px;
+
+}
+.link{
+    border-radius: 12px;
+    background-color: #ffffff; 
+    border: none;
+    color: rgb(255, 0, 0);
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ListenonYouTube {
+    color: red;
+}
+
+.text4 {
+    color: #ffffff;
+}
+.album {
+    color: white;
+}
+.text5 {
+    color: red;
+}
